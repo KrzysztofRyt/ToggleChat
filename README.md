@@ -1,3 +1,5 @@
+<div align="center">
+
 # Toggle Chat
 
 Makes Chat Toggleable by the press of a Keybind!
@@ -6,7 +8,7 @@ Makes Chat Toggleable by the press of a Keybind!
 
 <a href="https://modrinth.com/mod/toggle-chat-mod">
 
-<img alt="modrinth" height="52" src="[https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg)">
+<img alt="modrinth" height="52" src="https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg">
 
 </a>
 
